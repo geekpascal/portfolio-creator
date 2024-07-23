@@ -1,0 +1,9 @@
+<!-- static/css/styles.css -->
+.shadow-text {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.animate-element {
+    opacity: 0;
+    transform: translateY(20px);
+}
